@@ -26,3 +26,6 @@
 ## 注意事项
 - 建议定期更新并同步Excel文件，以避免数据库结构出现差异。
 - 备份Excel文件以防止数据丢失。
+
+## Image
+![mysql_for_Excil.jpg](mysql_for_Excil.jpg)
